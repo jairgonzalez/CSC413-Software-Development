@@ -1,0 +1,35 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+#intlij .idea
+.idea
+.idea
+out/*
+
+
+#Netbeans
+nbproject/*
+
+
+# VS Code project settings
+.vscode
+
+#MacOS folder meta-data
+.DS_Store
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
