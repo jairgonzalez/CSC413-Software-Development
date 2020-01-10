@@ -1,8 +1,5 @@
 # csc413-SecondGame
 
-## Student Name  : Jair Gonzalez
-## Student ID    : 915762580  
-
 
 ## src folder is to be used to store source code only.
 
